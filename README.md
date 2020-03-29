@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tailspin-ma/Space%20Game%20-%20web%20-%20pipeline/_apis/build/status/macorrales.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/tailspin-ma/Space%20Game%20-%20web%20-%20pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
